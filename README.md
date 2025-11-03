@@ -1,14 +1,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=threefish&theme=tokyonight&show_icons=true&hide_title=true" />
 
-## 🚀 关于我
+### 🚀 关于我
 
 我是一名热爱技术、擅长全栈开发的工程师，坚信「持续学习 + 开源实践」能推动技术成长。  
 - 拥有丰富的前后端开发经验，熟悉 Java、SpringBoot、React 等主流技术栈。
 - 对 Flowable、Bpmn.js 有非常深入的落地实践经验，欢迎交流技术、共同开源成长。
 
----
 
-## 🗂 精选项目
+
+### 🗂 精选项目
 
 下面是我 GitHub 上的部分代表项目：  
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠 技术栈 & 工具
+### 🛠 技术栈 & 工具
 
 - **后端**：Java · SpringBoot · SpringMVC · MyBatis / NutzDao  
 - **前端**： Ant Design · React  
@@ -34,7 +34,7 @@
 
 ---
 
-## 📬 想交流或合作？
+### 📬 想交流或合作？
 
 - Email: huchuc@vip.qq.com  
 - 欢迎提 Issue、Pull Request，一起参与开源的技术旅程！  
